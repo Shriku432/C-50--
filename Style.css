@@ -1,0 +1,34 @@
+h1{
+
+color: Yellow
+
+
+}
+
+.header{
+
+background-color: red;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.menu{
+
+color: blue
+
+
+
+
+
+
+}
+
+.grid{
+
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+
+}
